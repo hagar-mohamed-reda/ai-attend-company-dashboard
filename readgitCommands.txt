@@ -5,3 +5,4 @@ git remote add origin https://github.com/hagar-mohamed-reda/ai-attend-company-da
 git push origin [your branch]
 
 salah merege
+git merge
