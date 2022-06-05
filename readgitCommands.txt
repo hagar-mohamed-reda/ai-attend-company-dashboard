@@ -1,0 +1,5 @@
+git init 
+git add .
+git commit -m "the comment"
+git remote add origin https://github.com/hagar-mohamed-reda/ai-attend-company-dashboard.git
+git push origin [your branch]
